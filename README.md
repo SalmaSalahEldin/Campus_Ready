@@ -44,3 +44,17 @@ print(response)
 Run the script, and the specified file will be deleted from both Chroma and the PostgreSQL database
 
 
+
+### 6. Running the Main Agent with Tools for Extracting Topics and Generating Questions
+To extract the main topics and generate questions from a PDF, follow these steps:
+
+Ensure the necessary files are set up and dependencies are installed.
+
+Run the Tools file to activate the main agent, which will handle the topic extraction and question generation
+
+
+Copy code
+python Tools.py
+The main agent will process the PDF, extract key topics, and generate relevant questions based on the content of the book.
+
+
