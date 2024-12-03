@@ -79,13 +79,6 @@ Handling structured data such as complex tables and merged cells in PDFs require
 
 The **SQL_Agent** file provides a simple implementation of how we can interact with structured data. This agent currently handles the parsing of structured data from PDFs, stores it in a PostgreSQL database, and can be easily adjusted to extend its functionality for future use cases. 
 
-### Key Considerations for Future Work:
-- **Data Integrity and Consistency**: Structured data must be parsed and stored in a way that allows for easy access and modification in future stages of the workflow.
-  
-- **Scalability**: The approach should be scalable to handle larger documents and more complex structures. As documents grow in size and complexity, ensuring efficient access to structured data becomes critical.
-  
-- **Flexibility**: The **SQL_Agent** can be further enhanced to provide more advanced querying, searching, and filtering capabilities for structured data.
-
 By continuing to evolve this SQL_Agent, we can ensure that structured data is not only accurately captured but also maximized in its utility for multiple tasks such as topic extraction, question generation, and further analysis. This approach will play a crucial role in unlocking the full potential of document data processing in future applications.
 
 
