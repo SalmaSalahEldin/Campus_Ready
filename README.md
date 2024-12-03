@@ -33,7 +33,7 @@ Note that this will be managed using the SQL_Agent file, which will interact wit
 
 If you're working with a very simple PDF that doesn't contain complex tables or feel this step is unnecessary, you can comment out this part in File_service file.
 
-### 3. Create the .env File
+### 3. Modify the .env File
 replace data in .env file with your own credentials
 
 ### Uploading a Book to Chroma
