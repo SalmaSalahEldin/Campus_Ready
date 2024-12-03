@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "generated_at": "2024-12-03T18:22:32.933604",
+        "total_questions": 5,
+        "book_title": "Project Management Professional Guide",
+        "generation_method": "RAG Pipeline",
+        "embedding_model": "text-embedding-3-large",
+        "vector_store": "Chroma"
+    },
+    "questions": [
+        {
+            "id": "Q1",
+            "topic": "Project Initiation",
+            "type": "MCQ",
+            "question": "What is the requirement for an expense report to be approved at ArkLeap Technologies?",
+            "options": {
+                "A": "The report must be approved by the Finance Department",
+                "B": "The report must be approved by the employee\u2019s Manager",
+                "C": "The report must be approved by the HR Department",
+                "D": "The report must be approved by the Operations Manager"
+            },
+            "correct_answer": "B",
+            "explanation": "According to the content, all Expense Reports at ArkLeap Technologies must be approved by the employee\u2019s Manager in accordance with the Supervisor/Manager\u2019s expenditure authorization.",
+            "source": {
+                "context": "ArkLeap Technolgies\n\u001d\u0018 Expense Report\nArkLeap regulations require that traveling personnel maintain an adequate record for \neach trip and post all pertinent information in support of each expenditure (who, what, \nwhy, when and how much). All Expense Reports must be approved by the employee\u2019s \nManager in accordance with the Supervisor/Manager\u2019s expenditure authorization. Expense reports must be submitted to the Finance Department monthly and last month`s \nreport could be upon return or maximum within five (5) days of the first expenditure \nincurred or reimbursement can be delayed while current reports are processed. S\u0018 Employee\u2019s Responsibilities\ns Exception approval is required if employee business expenses are not clearly in \naccordance with policy. Any of these conditions require exception approval\u0097\n\u009f\u008b Unusual expense\u008b\n\u00ab\u008b Expense could possibly appear to be inappropriate\u008b\n\u00aa\u008b Expense exceeds the guidelines\u008b\n|\u008b Expense reports not submitted in a timely manner\u008b\nz\u008b Photocopy/inadequate/missing receipt. s Approving manager may not be a direct \nor indirect, beneficiary of the expense \nbeing \napproved. For \nexample, \nan \nexpense report for business meetings \nmust be approved by the next highest \nlevel of management not in attendance\u008b\ns Receipts are required for reimbursement \nof all authorized business expenses. The \nreceipt must identify the name of the \nestablishment, \ndate, \nactual \namount \nincurred, description, and receipt of \npayment.",
+                "confidence_score": 1.4629230384037335
+            }
+        },
+        {
+            "id": "Q2",
+            "topic": "Project Initiation",
+            "type": "MCQ",
+            "question": "What is the maximum cash advance given to a traveler per trip at ArkLeap Technologies?",
+            "options": {
+                "A": "$500",
+                "B": "$1000",
+                "C": "$1500",
+                "D": "$2000"
+            },
+            "correct_answer": "B",
+            "explanation": "According to the content, a cash advance of up to $1000 per trip is given to the traveler to cover his living expenses at ArkLeap Technologies.",
+            "source": {
+                "context": "ArkLeap Technolgies\nWhile these guidelines are intended to be comprehensive, it is impossible to anticipate \nevery situation encountered by a traveler. The traveler is expected to apply these \nguidelines on a conservative basis, consistent with normal living standards. Employees are expected to9\n\u0015 Exercise good judgment with respect to expenses0\n\u0015 Spend the company\u2019s money as carefully and judiciously as they would their own0\n\u0015 Report all expenses and advances promptly and accurately with required \ndocumentation. Business Trip Outside Egypt (Abroad)\ndc Procedures\nIn case of Air Travel, all employees must utilize Lowest Fare Routing (LFR)- LFR is quoted \nlogical lowest fare for the business trip, which will (where possible)y\n\u0015 Result in total layover time not exceeding 4 hours0\n\u0015 Require no more than one interim stop each way0\n\u0015 Employees traveling for a duration of 2 months or more will have a minimum carriage \nof 40 Kilograms0\n\u0015 Employees traveling for a duration less than 2 months could be subject to flights with \nlower carriage options. Minimum of 23 Kilograms0\n\u0015 All employees residing in Cairo shall travel directly from Cairo\u2019s airport0\n\u0015 All employees residing in Alexandria shall travel directly from Alexandria\u2019s airport \nunless there are no available air flights from Alexandria Airport, Arkleap will provide \ntransportation to Cairo Airport0\n\u0015 Should arise any urgency for the employee to travel on a short notice, and there are no \nflights available in his city of residency, an exception is made for the employee to \ntravel from a different airport and ArkLeap will take responsibility of transporting the \nemployee to the airport. This is an exceptional process that requires the HR \ndepartment to receive the confirmation of the operations manager by mail for each \nincident individually0\n\u0015 Any changes in flight ticket reservations, according to the employee request should be \nrequested 1 month before return or travel date provided that the change must be \nmade using Lowest Fare Routing. Any delay in requesting change will be completely \ncharged on the expense of the employee.",
+                "confidence_score": 1.5062234629876246
+            }
+        },
+        {
+            "id": "Q3",
+            "topic": "Project Initiation",
+            "type": "MCQ",
+            "question": "What is the per diem travel allowance for a traveler at ArkLeap Technologies?",
+            "options": {
+                "A": "$25",
+                "B": "$50",
+                "C": "$75",
+                "D": "$100"
+            },
+            "correct_answer": "B",
+            "explanation": "According to the content, the traveler at ArkLeap Technologies will have $50 per diem as travel allowance.",
+            "source": {
+                "context": "ArkLeap Technolgies\n\u001e\u0019 Travel allowance\nThe traveler will have 50$ per diem as travel \nallowance. A\u0019 Cash Advances \nA cash advance of up to 1000$ per trip will be given to \nthe traveler to cover his living expenses. All requests for Travel Advance must be approved \nand submitted to the Finance Department at least (3) \nbusiness days prior to the traveler\u2019s departure. Any excess of advanced funds over expenses must be \nremitted promptly with the expense report. Delinquent \nnotices will be sent on advances that have not cleared \nwithin thirty (30) days from issue date. You may not \nrequest any further advance if you currently have an \nadvance outstanding that has not been resolved.",
+                "confidence_score": 1.5456131162284479
+            }
+        },
+        {
+            "id": "Q4",
+            "topic": "Project Initiation",
+            "type": "MCQ",
+            "question": "What is the policy for business and first-class travel at ArkLeap Technologies?",
+            "options": {
+                "A": "It is allowed and covered by the company",
+                "B": "It is allowed only if it is at the employee\u2019s expense",
+                "C": "It is not allowed under any circumstances",
+                "D": "It is allowed with the approval of the employee\u2019s supervisor"
+            },
+            "correct_answer": "B",
+            "explanation": "According to the content, business and first-class travel are not allowed at ArkLeap Technologies unless it is at the employee\u2019s expense.",
+            "source": {
+                "context": "ArkLeap Technolgies\nExceptions to this policy statement will be allowed with approval of the employee\u2019s \nsupervisor so that the additional cost is authorized. Business and First-Class travel are not allowed unless it is at the employee\u2019s expense.",
+                "confidence_score": 1.5599147893928793
+            }
+        },
+        {
+            "id": "Q5",
+            "topic": "Project Initiation",
+            "type": "MCQ",
+            "question": "What happens if an employee at ArkLeap Technologies does not submit their expense reports in a timely manner?",
+            "options": {
+                "A": "The employee is fined",
+                "B": "The employee is given a warning",
+                "C": "Exception approval is required",
+                "D": "The employee is terminated"
+            },
+            "correct_answer": "C",
+            "explanation": "According to the content, if an employee at ArkLeap Technologies does not submit their expense reports in a timely manner, exception approval is required.",
+            "source": {
+                "context": "ArkLeap Technolgies\nExceptions to this policy statement will be allowed with approval of the employee\u2019s \nsupervisor so that the additional cost is authorized. Business and First-Class travel are not allowed unless it is at the employee\u2019s expense.",
+                "confidence_score": 1.5599147893928793
+            }
+        }
+    ]
+}
