@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "generated_at": "2024-12-03T18:12:48.248025",
+        "total_questions": 5,
+        "book_title": "Project Management Professional Guide",
+        "generation_method": "RAG Pipeline",
+        "embedding_model": "text-embedding-3-large",
+        "vector_store": "Chroma"
+    },
+    "questions": [
+        {
+            "id": "Q1",
+            "topic": "Employee's Responsibilities for Business Expenses",
+            "type": "MCQ",
+            "question": "What is the maximum amount that ArkLeap will reimburse without a receipt?",
+            "options": {
+                "A": "50 EGP",
+                "B": "100 EGP",
+                "C": "150 EGP",
+                "D": "200 EGP"
+            },
+            "correct_answer": "A",
+            "explanation": "According to the content, ArkLeap will not reimburse expenditure greater than 50 EGP without a receipt.",
+            "source": {
+                "context": "ArkLeap Technolgies\n\u001d\u0018 Expense Report\nArkLeap regulations require that traveling personnel maintain an adequate record for \neach trip and post all pertinent information in support of each expenditure (who, what, \nwhy, when and how much). All Expense Reports must be approved by the employee\u2019s \nManager in accordance with the Supervisor/Manager\u2019s expenditure authorization. Expense reports must be submitted to the Finance Department monthly and last month`s \nreport could be upon return or maximum within five (5) days of the first expenditure \nincurred or reimbursement can be delayed while current reports are processed. S\u0018 Employee\u2019s Responsibilities\ns Exception approval is required if employee business expenses are not clearly in \naccordance with policy. Any of these conditions require exception approval\u0097\n\u009f\u008b Unusual expense\u008b\n\u00ab\u008b Expense could possibly appear to be inappropriate\u008b\n\u00aa\u008b Expense exceeds the guidelines\u008b\n|\u008b Expense reports not submitted in a timely manner\u008b\nz\u008b Photocopy/inadequate/missing receipt. s Approving manager may not be a direct \nor indirect, beneficiary of the expense \nbeing \napproved. For \nexample, \nan \nexpense report for business meetings \nmust be approved by the next highest \nlevel of management not in attendance\u008b\ns Receipts are required for reimbursement \nof all authorized business expenses. The \nreceipt must identify the name of the \nestablishment, \ndate, \nactual \namount \nincurred, description, and receipt of \npayment.",
+                "confidence_score": 0.8085179640806132
+            }
+        },
+        {
+            "id": "Q2",
+            "topic": "Employee's Responsibilities for Business Expenses",
+            "type": "MCQ",
+            "question": "What is the per diem travel allowance for an ArkLeap employee?",
+            "options": {
+                "A": "50$",
+                "B": "100$",
+                "C": "150$",
+                "D": "200$"
+            },
+            "correct_answer": "A",
+            "explanation": "According to the content, the traveler will have 50$ per diem as travel allowance.",
+            "source": {
+                "context": "ArkLeap Technolgies\n\u001d\u0018 Expense Report\nArkLeap regulations require that traveling personnel maintain an adequate record for \neach trip and post all pertinent information in support of each expenditure (who, what, \nwhy, when and how much). All Expense Reports must be approved by the employee\u2019s \nManager in accordance with the Supervisor/Manager\u2019s expenditure authorization. Expense reports must be submitted to the Finance Department monthly and last month`s \nreport could be upon return or maximum within five (5) days of the first expenditure \nincurred or reimbursement can be delayed while current reports are processed. S\u0018 Employee\u2019s Responsibilities\ns Exception approval is required if employee business expenses are not clearly in \naccordance with policy. Any of these conditions require exception approval\u0097\n\u009f\u008b Unusual expense\u008b\n\u00ab\u008b Expense could possibly appear to be inappropriate\u008b\n\u00aa\u008b Expense exceeds the guidelines\u008b\n|\u008b Expense reports not submitted in a timely manner\u008b\nz\u008b Photocopy/inadequate/missing receipt. s Approving manager may not be a direct \nor indirect, beneficiary of the expense \nbeing \napproved. For \nexample, \nan \nexpense report for business meetings \nmust be approved by the next highest \nlevel of management not in attendance\u008b\ns Receipts are required for reimbursement \nof all authorized business expenses. The \nreceipt must identify the name of the \nestablishment, \ndate, \nactual \namount \nincurred, description, and receipt of \npayment.",
+                "confidence_score": 0.9085171740806175
+            }
+        },
+        {
+            "id": "Q3",
+            "topic": "Employee's Responsibilities for Business Expenses",
+            "type": "MCQ",
+            "question": "What is the maximum cash advance an ArkLeap employee can receive per trip?",
+            "options": {
+                "A": "500$",
+                "B": "750$",
+                "C": "1000$",
+                "D": "1250$"
+            },
+            "correct_answer": "C",
+            "explanation": "According to the content, a cash advance of up to 1000$ per trip will be given to the traveler to cover his living expenses.",
+            "source": {
+                "context": "ArkLeap Technolgies\n\u001d\u0018 Expense Report\nArkLeap regulations require that traveling personnel maintain an adequate record for \neach trip and post all pertinent information in support of each expenditure (who, what, \nwhy, when and how much). All Expense Reports must be approved by the employee\u2019s \nManager in accordance with the Supervisor/Manager\u2019s expenditure authorization. Expense reports must be submitted to the Finance Department monthly and last month`s \nreport could be upon return or maximum within five (5) days of the first expenditure \nincurred or reimbursement can be delayed while current reports are processed. S\u0018 Employee\u2019s Responsibilities\ns Exception approval is required if employee business expenses are not clearly in \naccordance with policy. Any of these conditions require exception approval\u0097\n\u009f\u008b Unusual expense\u008b\n\u00ab\u008b Expense could possibly appear to be inappropriate\u008b\n\u00aa\u008b Expense exceeds the guidelines\u008b\n|\u008b Expense reports not submitted in a timely manner\u008b\nz\u008b Photocopy/inadequate/missing receipt. s Approving manager may not be a direct \nor indirect, beneficiary of the expense \nbeing \napproved. For \nexample, \nan \nexpense report for business meetings \nmust be approved by the next highest \nlevel of management not in attendance\u008b\ns Receipts are required for reimbursement \nof all authorized business expenses. The \nreceipt must identify the name of the \nestablishment, \ndate, \nactual \namount \nincurred, description, and receipt of \npayment.",
+                "confidence_score": 0.9785171740806144
+            }
+        },
+        {
+            "id": "Q4",
+            "topic": "Employee's Responsibilities for Business Expenses",
+            "type": "MCQ",
+            "question": "Who should approve an employee's expense report at ArkLeap?",
+            "options": {
+                "A": "The employee's manager",
+                "B": "The finance department",
+                "C": "The HR department",
+                "D": "The operations manager"
+            },
+            "correct_answer": "A",
+            "explanation": "According to the content, all Expense Reports must be approved by the employee\u2019s Manager in accordance with the Supervisor/Manager\u2019s expenditure authorization.",
+            "source": {
+                "context": "ArkLeap Technolgies\n\u001d\u0018 Expense Report\nArkLeap regulations require that traveling personnel maintain an adequate record for \neach trip and post all pertinent information in support of each expenditure (who, what, \nwhy, when and how much). All Expense Reports must be approved by the employee\u2019s \nManager in accordance with the Supervisor/Manager\u2019s expenditure authorization. Expense reports must be submitted to the Finance Department monthly and last month`s \nreport could be upon return or maximum within five (5) days of the first expenditure \nincurred or reimbursement can be delayed while current reports are processed. S\u0018 Employee\u2019s Responsibilities\ns Exception approval is required if employee business expenses are not clearly in \naccordance with policy. Any of these conditions require exception approval\u0097\n\u009f\u008b Unusual expense\u008b\n\u00ab\u008b Expense could possibly appear to be inappropriate\u008b\n\u00aa\u008b Expense exceeds the guidelines\u008b\n|\u008b Expense reports not submitted in a timely manner\u008b\nz\u008b Photocopy/inadequate/missing receipt. s Approving manager may not be a direct \nor indirect, beneficiary of the expense \nbeing \napproved. For \nexample, \nan \nexpense report for business meetings \nmust be approved by the next highest \nlevel of management not in attendance\u008b\ns Receipts are required for reimbursement \nof all authorized business expenses. The \nreceipt must identify the name of the \nestablishment, \ndate, \nactual \namount \nincurred, description, and receipt of \npayment.",
+                "confidence_score": 0.9085171740806132
+            }
+        },
+        {
+            "id": "Q5",
+            "topic": "Employee's Responsibilities for Business Expenses",
+            "type": "MCQ",
+            "question": "What is the maximum layover time allowed for Lowest Fare Routing (LFR) in ArkLeap?",
+            "options": {
+                "A": "2 hours",
+                "B": "3 hours",
+                "C": "4 hours",
+                "D": "5 hours"
+            },
+            "correct_answer": "C",
+            "explanation": "According to the content, Lowest Fare Routing (LFR) should result in total layover time not exceeding 4 hours.",
+            "source": {
+                "context": "ArkLeap Technolgies\n\u001d\u0018 Expense Report\nArkLeap regulations require that traveling personnel maintain an adequate record for \neach trip and post all pertinent information in support of each expenditure (who, what, \nwhy, when and how much). All Expense Reports must be approved by the employee\u2019s \nManager in accordance with the Supervisor/Manager\u2019s expenditure authorization. Expense reports must be submitted to the Finance Department monthly and last month`s \nreport could be upon return or maximum within five (5) days of the first expenditure \nincurred or reimbursement can be delayed while current reports are processed. S\u0018 Employee\u2019s Responsibilities\ns Exception approval is required if employee business expenses are not clearly in \naccordance with policy. Any of these conditions require exception approval\u0097\n\u009f\u008b Unusual expense\u008b\n\u00ab\u008b Expense could possibly appear to be inappropriate\u008b\n\u00aa\u008b Expense exceeds the guidelines\u008b\n|\u008b Expense reports not submitted in a timely manner\u008b\nz\u008b Photocopy/inadequate/missing receipt. s Approving manager may not be a direct \nor indirect, beneficiary of the expense \nbeing \napproved. For \nexample, \nan \nexpense report for business meetings \nmust be approved by the next highest \nlevel of management not in attendance\u008b\ns Receipts are required for reimbursement \nof all authorized business expenses. The \nreceipt must identify the name of the \nestablishment, \ndate, \nactual \namount \nincurred, description, and receipt of \npayment.",
+                "confidence_score": 0.7085185940806158
+            }
+        }
+    ]
+}
